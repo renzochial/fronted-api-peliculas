@@ -1,0 +1,98 @@
+body{
+    font-family: Helvetica,Arial,  sans-serif;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+    background: #343a40;
+    width: 100%;
+    color: white;
+}
+
+#navbarNavDropdown{
+    background: #343a40 !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.boton-agregar{
+    background: #eceaea;
+    position: fixed;
+    top: 29px;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    width: 100%;
+    margin: 5px auto;
+    padding: 5px;
+}
+
+.fas{
+    cursor: pointer;
+}
+  
+.titulo {
+    padding: 2%;
+    background: #fff9c6;
+    color: #c7b27e;
+    border: 1px solid #fce29f;
+    border-radius: .25em;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.descripcion {
+    padding: 2%;
+    background: #dfdbb4;
+    color: #514e46;
+    border: 1px solid #bba468;
+    border-radius: .25em;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: justify;
+    height: 130px;
+    overflow: auto;
+}
+
+img {
+    border: 1px solid #bba468;
+}
+
+.form-control{
+    margin-bottom: 5px !important;
+    font-size: 12px !important;
+}
+
+/*--------------------------------estilo modal de registrar------------------------------------*/
+
+.cabecera-modal{
+	display: block !important;
+	padding: 5px;
+	border-bottom:none;
+	color: white;
+}
+
+.contenido-modal{
+	background: #0009 !important;;
+}
+
+.cuerpo-modal{
+	padding: 10px 10px 0px 10px;
+}
+
+.label-modal{
+	color: white;
+}
+
+.botones{
+    background-color: #e9ecef !important;
+    border-color: #e9ecef !important;
+    color: #171717 !important;
+}
+
+/*----------------------------------------------------------------------------------------------*/
